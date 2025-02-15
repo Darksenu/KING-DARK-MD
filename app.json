@@ -1,8 +1,8 @@
 {
-  "name": "LAKA-MD",
-  "description": "Powerd By Laka Md",
+  "name": "KING-DARK-MD",
+  "description": "Powerd By KING DARK MD",
   "logo": "https://i.ibb.co/sKmDFhk/7919.jpg",
-  "keywords": ["lakamd", "bot", "whatsapp bot", "multi device", "laka-md"],
+  "keywords": ["kingdarkmd", "bot", "whatsapp bot", "multi device", "king-dark-md"],
   "success_url": "/",
 
   "env": {
